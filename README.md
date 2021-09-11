@@ -24,7 +24,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://opensource.org/licenses/MIT)
 
-##LIVE URL
+## LIVE URL
 
 [LIVE URL](https://aysegultopyurek.github.io/patikaFirstProjectSelfPratic/)
 
